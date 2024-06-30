@@ -6,17 +6,17 @@ A simple Python script to generate random passwords with specified lengths and q
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/d1v45/password-generator.git
+   git clone https://github.com/d1v45/Password-Generator.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd password-generator
+   cd Password-Generator
    ```
 
 3. Run the script:
    ```python
-   python password_generator.py
+   python pass_gen.py
    ```
 
 4. Follow the prompts to specify the length of passwords and the number of passwords you need.
