@@ -6,7 +6,7 @@ A simple golang script to generate random passwords with specified lengths and q
 
 - **Golang**
 
-##Installation
+## Installation
 
 ### For Linux or macOS:
 
